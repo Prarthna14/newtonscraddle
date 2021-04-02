@@ -69,7 +69,6 @@ function mouseDragged() {
     	Matter.Body.setPosition(bobObject1.body,{x:mouseX,y:mouseY});
 
   	}
-}
 
 
 
